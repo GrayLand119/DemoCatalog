@@ -23,6 +23,13 @@ A catalog of my demos.
 
 App国际化语言管理工具,实现App内切换语言(App语言不随系统语言变化而变化) 0.0.1版本目前只添加了英语和简体中文
 
+
+## [GLCircularSlider](https://github.com/GrayLand119/GLCircularSlider)
+
+可自定义风格的支持渐变色的环状Slider
+
+![demo](https://github.com/GrayLand119/GLCircularSlider/blob/master/glcirculardemo.gif)
+
 ## [GLWaveView](https://github.com/GrayLand119/GLWaveView)
 
 一个自带波形动画的View, 可以添加多层波浪且方便自定义
